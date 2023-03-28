@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+background-color: yellow;
+
+}
+
+ul li {
+  list-style: none;
+  display: block;
+  float: right;
+  width: 100px;
+  height: 50px;
+  margin-bottom: 40px;
+ background-color: yellow;
+  border: 2px solid red;
+}
+
+ul li a {
+  font-size: 14px;
+  width: 250px;
+  line-height: 5px;
+
+}
+
+.logo {
+  background-image: https://www.shutterstock.com/image-photo/hand-arranging-wood-block-healthcare-600w-1561815367.jpg;
+  width: 250px;
+  height:150px;
+}
